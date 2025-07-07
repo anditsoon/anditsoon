@@ -3,7 +3,7 @@
 
 ## 기술 스택 및 협업 툴
 <p align="center">
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/c%23-A8B9CC?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/photon-004480?style=for-the-badge&logo=photon&logoColor=FFFFFF"/>
 <br/>
